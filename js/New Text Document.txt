@@ -1,0 +1,46 @@
+please copy my .js and .css files to js and css folder
+
+can you do it . you can copy from your laptop to mine
+
+ok
+
+let me check on my side and send you back later. we keep in the line.
+
+ok...
+
+
+it shall not goes to createsurvey_question.php
+did you modified my code ?
+
+i just changed that ... nothing else
+
+and the session variable
+i am checking the _questions.php now , it works onmy side, strange.
+
+ok try replacing the file in my lap
+and change the session varibale to name instead of username.
+
+are you there?
+yes, i am googling
+
+ok now.
+one min
+should we change the modify button to Add/modify questions?
+sure
+ok i will do that ... 
+thanks man
+
+change "Create Survey" to "Manage Curvey"
+ok
+i wil send my document later
+ok
+you can IM me 
+on 
+google mail
+
+document?
+I will create external document of manage survey in word and send you for combine.
+
+ok sure
+
+ok i am disconnecting 
